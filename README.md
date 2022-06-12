@@ -4,7 +4,7 @@ Week 01 Repo for homework code refactor
 
 ## User Story
 
-*AS A marketing agency
+*AS A marketing agency <br />
 *I WANT a codebase that follows accessibility standards
 *SO THAT our own site is optimized for search engines
 
