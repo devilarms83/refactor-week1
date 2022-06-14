@@ -21,3 +21,13 @@ Week 01 Repo for homework code refactor
 * THEN they fall in sequential order <br />
 * WHEN I view the title element <br />
 * THEN I find a concise, descriptive title 
+
+## Client Mockup
+
+The following image demonstrates the web application's appearance and functionality:
+
+![Horiseon index.](./assets/images/01-html-css-git-homework-demo.png) 
+
+## Site View
+
+The published website can be seen here: https://devilarms83.github.io/refactor-week1/
